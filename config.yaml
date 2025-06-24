@@ -46,4 +46,4 @@ translator:
   provider: "google"
 
 webhook:
-  url: "https://kakaowork.com/bots/hook/95eedb37b92c492daf035661645b8b3d"
+  url: "WEBHOOK URL"
