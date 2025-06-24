@@ -1,0 +1,49 @@
+google:
+  credentials_path: "credentials.json"
+  spreadsheet_name: "Privacy News Daily"
+  worksheet_index: 0
+
+feeds:
+  urls:
+    - https://iapp.org/rss/
+    - https://hackread.com/feed/
+    - http://feeds.bbci.co.uk/news/technology/rss.xml
+    - https://securityaffairs.com/feed
+    - https://www.securitymagazine.com/rss/15
+    - https://www.securitymagazine.com/rss/topic/2236-cybersecurity-news
+    - https://www.securitymagazine.com/rss
+    - https://noyb.eu/en/rss
+    - http://rss.cnn.com/rss/edition_technology.rss
+    - https://www.theguardian.com/technology/data-computer-security/rss
+    - https://www.theguardian.com/technology/internet+world/censorship/rss
+    - https://www.theguardian.com/technology/hacking/rss
+    - https://www.theguardian.com/technology/data-protection/rss
+    - https://www.theguardian.com/technology/google/rss
+    - https://www.theguardian.com/technology/cybercrime/rss
+
+keywords:
+  - privacy
+  - data
+  - gdpr
+  - personal data
+  - data breach
+  - data protection
+  - google
+  - meta
+  - eu
+  - openai
+  - apple
+  - 정보보호
+  - 개인정보
+  - 보안사고
+  - 유출
+  - hacking
+  - cybercrime
+  - ai
+  - law
+
+translator:
+  provider: "google"
+
+webhook:
+  url: "https://kakaowork.com/bots/hook/95eedb37b92c492daf035661645b8b3d"

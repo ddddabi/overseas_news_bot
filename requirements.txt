@@ -1,0 +1,9 @@
+# python3 -m pip install -r requirements.txt
+# pip install -r requirements.txt
+
+feedparser
+gspread
+oauth2client
+googletrans==4.0.0-rc1
+pyyaml
+pandas

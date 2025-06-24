@@ -1,0 +1,27 @@
+2025-05-13 15:08:50,714 [INFO] 📁 'All News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/All_News_2025-05-13.csv
+2025-05-13 15:08:51,599 [INFO] 🧹 'All News' 시트 초기화 완료.
+2025-05-13 15:08:52,310 [INFO] 📁 'Filtered News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/Filtered_News_2025-05-13.csv
+2025-05-13 15:08:53,041 [INFO] 🧹 'Filtered News' 시트 초기화 완료.
+2025-05-13 15:21:18,279 [INFO] 📁 'All News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/All_News_2025-05-13.csv
+2025-05-13 15:21:19,083 [INFO] 🧹 'All News' 시트 초기화 완료.
+2025-05-13 15:21:19,750 [INFO] 📁 'Filtered News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/Filtered_News_2025-05-13.csv
+2025-05-13 15:21:20,433 [INFO] 🧹 'Filtered News' 시트 초기화 완료.
+2025-05-14 10:28:30,068 [INFO] 📁 'All News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/All_News_05-14.csv
+2025-05-14 10:28:31,481 [INFO] 🧹 'All News' 시트 초기화 완료.
+2025-05-14 10:28:32,121 [INFO] 📁 'Filtered News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/Filtered_News_05-14.csv
+2025-05-14 10:28:32,993 [INFO] 🧹 'Filtered News' 시트 초기화 완료.
+2025-05-19 14:49:33,965 [INFO] 📁 'All News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/All_News_05-19.csv
+2025-05-19 14:49:34,906 [INFO] 🧹 'All News' 시트 초기화 완료.
+2025-05-19 14:49:35,474 [INFO] 📁 'Filtered News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/Filtered_News_05-19.csv
+2025-05-19 14:49:36,217 [INFO] 🧹 'Filtered News' 시트 초기화 완료.
+2025-05-27 16:05:15,657 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)'))': /token
+2025-05-27 16:05:15,673 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)'))': /token
+2025-05-27 16:05:15,689 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)'))': /token
+2025-05-28 09:03:40,018 [INFO] 📁 'All News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/All_News_05-28.csv
+2025-05-28 09:03:40,893 [INFO] 🧹 'All News' 시트 초기화 완료.
+2025-05-28 09:03:41,654 [INFO] 📁 'Filtered News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/Filtered_News_05-28.csv
+2025-05-28 09:03:42,475 [INFO] 🧹 'Filtered News' 시트 초기화 완료.
+2025-06-16 08:19:06,976 [INFO] 📁 'All News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/All_News_06-15.csv
+2025-06-16 08:19:08,488 [INFO] 🧹 'All News' 시트 초기화 완료.
+2025-06-16 08:19:09,141 [INFO] 📁 'Filtered News' 시트 백업 완료: /Users/luna.dv/overseas_news_bot/backups/Filtered_News_06-15.csv
+2025-06-16 08:19:09,870 [INFO] 🧹 'Filtered News' 시트 초기화 완료.
